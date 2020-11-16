@@ -1,0 +1,7 @@
+* Some benefits of Svelte
+- requires less code
+- smaller bundle sizes
+- simpler state management within and across components
+
+* Resources
+- https://github.com/mvolkmann/svelte-and-sapper-in-action
