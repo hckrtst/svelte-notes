@@ -2,6 +2,10 @@
 - requires less code
 - smaller bundle sizes
 - simpler state management within and across components
+- it's a compiler and not a framework, not a framework, let me say it agin....NOT a framework
+- there is no virtual DOM
+  - svelte provides reactivity by tracking changes to parts of DOM and re-renders only affect areas
 
+* sapper
 * Resources
 - https://github.com/mvolkmann/svelte-and-sapper-in-action
